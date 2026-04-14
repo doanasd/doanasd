@@ -5,6 +5,7 @@ Tôi là **Phạm Thanh Doãn**, hiện đang là sinh viên ngành Công nghệ
 Định hướng của tôi là trở thành một Kỹ sư An toàn thông tin, với trọng tâm vào **Penetration Testing, kiến trúc DevSecOps và giám sát hệ thống**. Profile này là không gian tôi lưu trữ các lab thực hành, dự án bảo mật, và quá trình tự học của mình.
 
 ---
+
 ## 🎓 Chứng chỉ (Certifications)
 
 * [cite_start]**CyberOps Associate**  [cite_start]– Cisco Networking Academy  
@@ -12,6 +13,7 @@ Tôi là **Phạm Thanh Doãn**, hiện đang là sinh viên ngành Công nghệ
   [cite_start]*Cơ sở đào tạo: Vietnam-Korea University of Information and Communication Technology, University of Danang*
   
 🔗https://github.com/doanasd/Certifications/blob/main/_certificate_doanpt-22ns-vku-udn-vn_336e068c-5989-4391-b1b7-711794981f7a.pdf
+
 ---
 
 ## 💻 Tech Stack & Công cụ
@@ -35,6 +37,7 @@ Tôi là **Phạm Thanh Doãn**, hiện đang là sinh viên ngành Công nghệ
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=doanasd&theme=default&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/doanasd)
@@ -65,4 +68,4 @@ Tôi là **Phạm Thanh Doãn**, hiện đang là sinh viên ngành Công nghệ
 *Tham gia các dự án lập trình cá nhân và đồ án học thuật thường xuyên.
 *Đam mê giải quyết vấn đề qua code và xây dựng sản phẩm thực tế.
 *Tự học công nghệ mới qua việc thực hành nhiều dự án cá nhân.
-*Thích code game 2d, 3d ( 2d - game giao diện swing java, kotlin,..3d - unity,..)
+*Thích code game 2d, 3d ( 2d - game giao diện swing java, kotlin,..3d - unity,..).
