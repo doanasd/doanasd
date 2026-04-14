@@ -10,8 +10,8 @@ Tôi là **Phạm Thanh Doãn**, hiện đang là sinh viên ngành Công nghệ
 * [cite_start]**CyberOps Associate**  [cite_start]– Cisco Networking Academy  
   [cite_start]*Hoàn thành ngày: 23 Apr 2025* 
   [cite_start]*Cơ sở đào tạo: Vietnam-Korea University of Information and Communication Technology, University of Danang*
-
-📄 Certificate: https://github.com/doanasd/Certifications/blob/main/_certificate_doanpt-22ns-vku-udn-vn_336e068c-5989-4391-b1b7-711794981f7a.pdf
+  
+🔗https://github.com/doanasd/Certifications/blob/main/_certificate_doanpt-22ns-vku-udn-vn_336e068c-5989-4391-b1b7-711794981f7a.pdf
 ---
 
 ## 💻 Tech Stack & Công cụ
